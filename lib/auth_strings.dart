@@ -121,8 +121,7 @@ String get androidGoToSettingsDescription => Intl.message(
         'fingerprint on their device. It shows in a dialog on Android side.');
 
 String get iOSLockOut => Intl.message(
-    'Biometric authentication is disabled. Please lock and unlock your screen to '
-    'enable it.',
+    '生物特征被禁用。 请将屏幕锁定和解锁启用它。',
     desc:
         'Message advising the user to re-enable biometrics on their device. It '
         'shows in a dialog on iOS side.');
